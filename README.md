@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# General Assignment for Cloudflare
 
 Using the worker-template, created a link-tree style web application that works by fetching a static HTML page
 and using the HTMLRewriter class to redefine the static html page to add new elements that will display links
